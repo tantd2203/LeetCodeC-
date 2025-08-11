@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 26)
 
 add_executable(LeetCodeC__ main.cpp
         "Arrays/Contains Duplicate .cpp"
-        "Arrays/Valid Anagram.cpp")
+        "Arrays/Valid Anagram.cpp"
+        Arrays/TwoSum.cpp)
