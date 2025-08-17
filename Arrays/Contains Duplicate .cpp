@@ -26,12 +26,6 @@ bool hasDuplicate(vector<int> &nums) {
     return false;
 }
 
-int main() {
-    vector<int> nums  = { 1, 2, 3, 3 };
-    vector<int> nums2 = { 1, 2, 3, 4 };
-    hasDuplidcate(nums);
 
-    return 0;
-}
 
 

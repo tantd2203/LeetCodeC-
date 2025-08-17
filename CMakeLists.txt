@@ -3,7 +3,8 @@ project(LeetCodeC__)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(LeetCodeC__ main.cpp
+add_executable(LeetCodeC__
         "Arrays/Contains Duplicate .cpp"
         "Arrays/Valid Anagram.cpp"
-        Arrays/TwoSum.cpp)
+        "Arrays/TwoSum.cpp"
+        "Arrays/Group Anagrams.cpp")

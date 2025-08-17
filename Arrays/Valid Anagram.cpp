@@ -11,6 +11,4 @@ bool isAnagram(string s, string t) {
         return t == s ;
 }
 
-int main() {
-    cout << isAnagram("abc", "cab");
-}
+

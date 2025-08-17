@@ -4,9 +4,6 @@
 using namespace std;
 
 class Solution {
-    int main() {
-        return 0;
-    }
 
     vector<int> twoSum(vector<int> &nums, int target) {
         unordered_map<int, int> map;
