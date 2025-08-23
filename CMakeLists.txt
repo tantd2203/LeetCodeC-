@@ -7,4 +7,5 @@ add_executable(LeetCodeC__
         "Arrays/Contains Duplicate .cpp"
         "Arrays/Valid Anagram.cpp"
         "Arrays/TwoSum.cpp"
-        "Arrays/Group Anagrams.cpp")
+        "Arrays/Group Anagrams.cpp"
+        "Arrays/Top K Frequent Elements.cpp")

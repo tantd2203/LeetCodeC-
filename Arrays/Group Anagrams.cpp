@@ -19,17 +19,17 @@ vector<vector<string> > groupAnagrams(vector<string> &strs) {
     }
     return result;
 }
-
-int main() {
-    vector<string> words = {"eat", "tea", "tan", "ate", "nat", "bat"};
-    auto result = groupAnagrams(words);
-
-    for (auto &group: result) {
-        for (auto &word: group) {
-            cout << word << " ";
-        }
-        cout << "\n";
-    }
-
-    return 0;
-}
+//
+// int main() {
+//     vector<string> words = {"eat", "tea", "tan", "ate", "nat", "bat"};
+//     auto result = groupAnagrams(words);
+//
+//     for (auto &group: result) {
+//         for (auto &word: group) {
+//             cout << word << " ";
+//         }
+//         cout << "\n";
+//     }
+//
+//     return 0;
+// }
